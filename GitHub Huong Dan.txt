@@ -1,0 +1,17 @@
+$ git config
+
+$  git config --global user.name = "Tinn"
+
+
+
+https://github.com/RebornNDT/Test.git
+
+$ git status
+
+$ git add .
+
+$ git commit -m "okok"
+
+$ git remote add Sql https://github.com/RebornNDT/Test.git
+
+$ git push Sql 
